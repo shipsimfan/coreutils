@@ -1,0 +1,48 @@
+[submodule "cal"]
+	path = cal
+	url = https://github.com/shipsimfan/cal.git
+	branch = main
+[submodule "cat"]
+	path = cat
+	url = https://github.com/shipsimfan/cat.git
+	branch = main
+[submodule "cp"]
+	path = cp
+	url = https://github.com/shipsimfan/cp.git
+	branch = main
+[submodule "date"]
+	path = date
+	url = https://github.com/shipsimfan/date.git
+	branch = main
+[submodule "echo"]
+	path = echo
+	url = https://github.com/shipsimfan/echo.git
+	branch = main
+[submodule "ls"]
+	path = ls
+	url = https://github.com/shipsimfan/ls.git
+	branch = main
+[submodule "mkdir"]
+	path = mkdir
+	url = https://github.com/shipsimfan/mkdir.git
+	branch = main
+[submodule "printenv"]
+	path = printenv
+	url = https://github.com/shipsimfan/printenv.git
+	branch = main
+[submodule "pwd"]
+	path = pwd
+	url = https://github.com/shipsimfan/pwd.git
+	branch = main
+[submodule "rm"]
+	path = rm
+	url = https://github.com/shipsimfan/rm.git
+	branch = main
+[submodule "rmdir"]
+	path = rmdir
+	url = https://github.com/shipsimfan/rmdir.git
+	branch = main
+[submodule "truncate"]
+	path = truncate
+	url = https://github.com/shipsimfan/truncate.git
+	branch = main
