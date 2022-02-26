@@ -49,6 +49,8 @@
 [submodule "devtree"]
 	path = devtree
 	url = https://github.com/shipsimfan/devtree
+	branch = main
 [submodule "meminfo"]
 	path = meminfo
 	url = https://github.com/shipsimfan/meminfo
+	branch = main
