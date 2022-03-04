@@ -54,3 +54,7 @@
 	path = meminfo
 	url = https://github.com/shipsimfan/meminfo
 	branch = main
+[submodule "ps"]
+	path = ps
+	url = https://github.com/shipsimfan/ps
+	branch = main
