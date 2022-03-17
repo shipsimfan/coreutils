@@ -58,3 +58,7 @@
 	path = ps
 	url = https://github.com/shipsimfan/ps
 	branch = main
+[submodule "kill"]
+	path = kill
+	url = https://github.com/shipsimfan/kill.git
+	branch = main
